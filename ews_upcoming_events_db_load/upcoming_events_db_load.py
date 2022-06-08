@@ -57,7 +57,7 @@ logger.addHandler(fh)
 #*********************************************************************
 
 mconfig = configparser.ConfigParser()
-mconfig.read("ews_upcoming_events_config.ini")
+mconfig.read("upcoming_events_config.ini")
 
 
 #*********************************************************************
